@@ -10,7 +10,7 @@ But an Age of Peace isn’t always what it seems. Rumors spread of enmity within
 
 ## The Folk of Elibe
 
-[Dwarves](species/dwarf.md), Elves, Goliath, Halflings, Humans, and Orcs are common folk in Elibe. 
+[Dwarves](species/Dwarf.md), Elves, Goliath, Halflings, Humans, and Orcs are common folk in Elibe. 
 Each species has its own native land and culture. 
 More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe. 
 Most folk such as these choose to hide their true nature from others.
