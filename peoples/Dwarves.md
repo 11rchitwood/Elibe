@@ -1,4 +1,4 @@
-# Dwarf
+# Dwarves
 
 Most dwarves hail from the mountains and hills of [Bern](../nations/Bern.md).
 King Desmond is their ruler, and he traces his line back to [Hartmut](../gods/Hartmut.md) the Hero.

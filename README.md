@@ -4,7 +4,8 @@ Once, dragons and men coexisted.
 They shared a peace forged in wisdom, a peace that lasted many generations.
 All that was lost when mankind disrupted this balance in a sudden onslaught.
 Man fought dragon in a savage war that shook the foundations of their world.
-This war was called The Scouring. Defeated and humbled, dragons vanished from the realm.
+This war was called The Scouring.
+Defeated and humbled, dragons vanished from the realm.
 In time man rebuilt, and spread his dominion across the land and on to the islands beyond.
 A millennium has passed since those dark days ended.
 
@@ -21,10 +22,10 @@ Even the smallest ruling houses in the Lycian League scrabble for the table scra
 Lord Elbert of House Pherae has gone missing.
 The invisible ties that hold society together stretch to near breakage.
 
-## Elibean Folk
+## Elibean Peoples
 
-[Dwarves](species/Dwarf.md), Elves, Goliath, Halflings, [Humans](species/Human.md), and Orcs are common folk in Elibe.
-Each species has its own native land and culture.
+[Dwarves](species/Dwarves.md), Elves, Goliath, Halflings, [Humans](species/Humans.md), and Orcs are common folk in Elibe.
+Each people has its own native land and culture.
 More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
 
