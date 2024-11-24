@@ -24,12 +24,10 @@ The invisible ties that hold society together stretch to near breakage.
 
 ## Elibean Peoples
 
-[Dwarves](species/Dwarves.md), Elves, Goliath, Halflings, [Humans](species/Humans.md), and Orcs are common folk in Elibe.
+[Dwarves](peoples/Dwarves.md), [Elves](peoples/Elves.md), Goliath, Halflings, [Humans](peoples/Humans.md), and Orcs are common folk in Elibe.
 Each people has its own native land and culture.
 More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
-
-You might be an elf, son or daughter of light. You probably worship St. Elimine and were born in Etruria, a theocracy where self-righteousness and piety make power.
 
 You might be a halfling, living in one of the many marches of Lycia. The Lycian League is a pluralistic society comprising folk of all backgrounds. You trace your lineage to Roland, the little thief, least of the Eight Legendary Heroes.
 

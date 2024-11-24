@@ -1,4 +1,4 @@
-# Hartmut the Hero
+# Hartmut
 
-Hartmut was the leader of the Eight Legends of Elibe and a hero of the Scouring.
-He wielded the legendary hammer Eckesachs.
+Hartmut was the champion of the Eight Legends and a hero of the Scouring.
+He wielded the king's hammer, Eckesachs.
