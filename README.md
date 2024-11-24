@@ -23,12 +23,10 @@ The invisible ties that hold society together stretch to near breakage.
 
 ## Elibean Folk
 
-[Dwarves](species/Dwarf.md), Elves, Goliath, Halflings, Humans, and Orcs are common folk in Elibe.
+[Dwarves](species/Dwarf.md), Elves, Goliath, Halflings, [Humans](species/Human.md), and Orcs are common folk in Elibe.
 Each species has its own native land and culture.
 More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
-
-You might be human, native to the vast open plains of Sacae. Yours are a nomadic people of horse and bow. Your tribe likely depends on roaming herds of aurochs for almost every aspect of their lives. Hanon, the divine trooper, is your society’s hero.
 
 You might be an elf, son or daughter of light. You probably worship St. Elimine and were born in Etruria, a theocracy where self-righteousness and piety make power.
 
