@@ -8,9 +8,14 @@ Humanity has flourished since the apocalyptic events of The Scouring a millenniu
 
 But an Age of Peace isn’t always what it seems. Rumors spread of enmity within Bern’s royal family. The common folk lament corruption and abuse of the St. Elimine Church. Even the smallest ruling houses in the Lycian League scrabble for the table scraps of power. Lord Elbert of House Pherae has gone missing. The invisible ties that hold society together stretch to near breakage.
 
-You might be human, native to the vast open plains of Sacae. Yours are a nomadic people of horse and bow. Your tribe likely depends on roaming herds of aurochs for almost every aspect of their lives. Hanon, the divine trooper, is your society’s hero.
+## The Folk of Elibe
 
-You might be a dwarf hailing from the mountains and hills of Bern. King Desmond is your ruler, and he traces his line back to Hartmut the Hero. Legend says that Hartmut himself dealt the final blow that slew the Demon Dragon. Armies all over fear Bern’s vicious corps of Wyvern Riders.
+[Dwarves](species/dwarf.md), Elves, Goliath, Halflings, Humans, and Orcs are common folk in Elibe. 
+Each species has its own native land and culture. 
+More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe. 
+Most folk such as these choose to hide their true nature from others.
+
+You might be human, native to the vast open plains of Sacae. Yours are a nomadic people of horse and bow. Your tribe likely depends on roaming herds of aurochs for almost every aspect of their lives. Hanon, the divine trooper, is your society’s hero.
 
 You might be an elf, son or daughter of light. You probably worship St. Elimine and were born in Etruria, a theocracy where self-righteousness and piety make power.
 
