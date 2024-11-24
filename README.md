@@ -1,18 +1,31 @@
 # Elibe
 
-Once, dragons and men coexisted. They shared a peace forged in wisdom, a peace that lasted many generations. All that was lost when mankind disrupted this balance in a sudden onslaught. Man fought dragon in a savage war that shook the foundations of their world. This war was called The Scouring. Defeated and humbled, dragons vanished from the realm. In time man rebuilt, and spread his dominion across the land and on to the islands beyond. A millennium has passed since those dark days ended.
+Once, dragons and men coexisted.
+They shared a peace forged in wisdom, a peace that lasted many generations.
+All that was lost when mankind disrupted this balance in a sudden onslaught.
+Man fought dragon in a savage war that shook the foundations of their world.
+This war was called The Scouring. Defeated and humbled, dragons vanished from the realm.
+In time man rebuilt, and spread his dominion across the land and on to the islands beyond.
+A millennium has passed since those dark days ended.
 
 It is an Age of Peace.
 
-Humanity has flourished since the apocalyptic events of The Scouring a millennium ago. Eight heroes rose up and vanquished the Demon Dragon with the help of their divine weapons. Utterly defeated, the dragons withdrew from the land, making way for the Human Era.
+Humanity has flourished since the apocalyptic events of The Scouring.
+Eight heroes rose up and vanquished the Demon Dragon with the help of their divine weapons.
+Utterly defeated, the dragons withdrew from the land, making way for the Human Era.
 
-But an Age of Peace isn’t always what it seems. Rumors spread of enmity within Bern’s royal family. The common folk lament corruption and abuse of the St. Elimine Church. Even the smallest ruling houses in the Lycian League scrabble for the table scraps of power. Lord Elbert of House Pherae has gone missing. The invisible ties that hold society together stretch to near breakage.
+But an Age of Peace isn’t always what it seems.
+Rumors spread of enmity within Bern’s royal family.
+The common folk lament corruption and abuse of the St. Elimine Church.
+Even the smallest ruling houses in the Lycian League scrabble for the table scraps of power.
+Lord Elbert of House Pherae has gone missing.
+The invisible ties that hold society together stretch to near breakage.
 
-## The Folk of Elibe
+## Elibean Folk
 
-[Dwarves](species/Dwarf.md), Elves, Goliath, Halflings, Humans, and Orcs are common folk in Elibe. 
-Each species has its own native land and culture. 
-More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe. 
+[Dwarves](species/Dwarf.md), Elves, Goliath, Halflings, Humans, and Orcs are common folk in Elibe.
+Each species has its own native land and culture.
+More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
 
 You might be human, native to the vast open plains of Sacae. Yours are a nomadic people of horse and bow. Your tribe likely depends on roaming herds of aurochs for almost every aspect of their lives. Hanon, the divine trooper, is your society’s hero.
