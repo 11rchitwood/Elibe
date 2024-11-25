@@ -24,7 +24,7 @@ The invisible ties that hold society together stretch to near breakage.
 
 ## Elibean Peoples
 
-[Dwarves](peoples/Dwarves.md), [Elves](peoples/Elves.md), Goliath, Halflings, [Humans](peoples/Humans.md), and Orcs are common folk in Elibe.
+[Dwarves](peoples/Dwarves.md), [Elves](peoples/Elves.md), [Goliath](peoples/Goliath.md), Halflings, [Humans](peoples/Humans.md), and Orcs are common folk in Elibe.
 Each people has its own native land and culture.
 More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
@@ -32,8 +32,6 @@ Most folk such as these choose to hide their true nature from others.
 You might be a halfling, living in one of the many marches of Lycia. The Lycian League is a pluralistic society comprising folk of all backgrounds. You trace your lineage to Roland, the little thief, least of the Eight Legendary Heroes.
 
 You could be an Orc, native to the Western Isles. Many folk label your people as violent savages, but you know that yours is a rich culture spanning back to the original Berserker himself, Durban, strongest of the Eight Legendary Heroes.
-
-You could be a Goliath born in the frozen wastes of Ilia. Barigan is your hero, and since your homeland has little arable land, many follow in his footsteps as mercenaries and warriors. Your homeland is also the native land of Pegasi, and as a result is the only nation with Pegasus Knights as part of its armed forces.
 
 Although a rare sight, you could hail from other far-off lands and look quite different from the folk described previously. Aasimar, Dragonborn, and Tieflings can all be found in Elibe, but they must hide their true nature from others.
 
