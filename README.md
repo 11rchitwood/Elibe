@@ -24,14 +24,10 @@ The invisible ties that hold society together stretch to near breakage.
 
 ## Elibean Peoples
 
-[Dwarves](peoples/Dwarves.md), [Elves](peoples/Elves.md), [Goliath](peoples/Goliath.md), [Halflings](peoples/Halflings.md), [Humans](peoples/Humans.md), and Orcs are common folk in Elibe.
+[Dwarves](peoples/Dwarves.md), [Elves](peoples/Elves.md), [Goliath](peoples/Goliath.md), [Halflings](peoples/Halflings.md), [Humans](peoples/Humans.md), and [Orcs](peoples/Orcs.md) are common folk in Elibe.
 Each people has its own native land and culture.
 More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
-
-You could be an Orc, native to the Western Isles. Many folk label your people as violent savages, but you know that yours is a rich culture spanning back to the original Berserker himself, Durban, strongest of the Eight Legendary Heroes.
-
-Although a rare sight, you could hail from other far-off lands and look quite different from the folk described previously. Aasimar, Dragonborn, and Tieflings can all be found in Elibe, but they must hide their true nature from others.
 
 ## Dark Tides in Badon
 
