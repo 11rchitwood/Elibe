@@ -24,9 +24,17 @@ The invisible ties that hold society together stretch to near breakage.
 
 ## Elibean Peoples
 
-[Dwarves](peoples/Dwarves.md), [Elves](peoples/Elves.md), [Goliath](peoples/Goliath.md), [Halflings](peoples/Halflings.md), [Humans](peoples/Humans.md), and [Orcs](peoples/Orcs.md) are common folk in Elibe.
-Each people has its own native land and culture.
-More exotic folk, such as Aasimar, Dragonborn, and Tieflings are rare in Elibe.
+These are the common peoples in Elibe:
+
+- [Dwarves](peoples/Dwarves.md)
+- [Elves](peoples/Elves.md)
+- [Goliath](peoples/Goliath.md)
+- [Halflings](peoples/Halflings.md)
+- [Humans](peoples/Humans.md)
+- [Orcs](peoples/Orcs.md)
+
+Each has their own native land and culture.
+More exotic individuals like Aasimar, Dragonborn, and Tieflings are rare in Elibe.
 Most folk such as these choose to hide their true nature from others.
 
 ## Adventures
